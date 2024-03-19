@@ -1,7 +1,7 @@
 # COMP 3005 Assignment 3 Part 1 (2024)
 ### Author: Adison Lampert
 
-[![Demo](https://img.youtube.com/vi/O-Wa0YxFDrU/0.jpg)](https://www.youtube.com/watch?v=O-Wa0YxFDrU)
+[Demo :video_camera:](https://www.youtube.com/watch?v=O-Wa0YxFDrU)
 
 ## Set Up
 Download dependencies:
